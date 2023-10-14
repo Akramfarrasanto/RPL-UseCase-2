@@ -20,6 +20,11 @@
 <img width="400" alt="Use Case BUS" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/d2a0faf6-14a4-4c60-8e49-974728d12556">
 
 ### 2.Activity Diagram
+<img width="507" alt="Activity Diagram BUSpng" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/8fc9d00f-55a2-4e3d-a0ad-c18a25355473">
 
+<img width="510" alt="Activity Admin Diagram BUSpng" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/788e7837-5610-441e-b28f-6a81ac1b259e">
 
 ### 3.Sequence Diagram
+<img width="753" alt="Sequary Diagram Admin BUS" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/917babd9-ad5b-482e-aa76-94a69d8efe24">
+
+<img width="498" alt="Sequary Diagram USER BUS" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/e41fae58-8f06-496d-9c6d-3397a0e6bdaf">

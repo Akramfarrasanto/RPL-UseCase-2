@@ -30,4 +30,5 @@
 <img width="498" alt="Sequary Diagram USER BUS" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/e41fae58-8f06-496d-9c6d-3397a0e6bdaf">
 
 ### 4.Class Diagram
-<img width="407" alt="Class DIagram bus" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/4596fc32-b2e1-43b7-bfed-063d81792215">
+<img width="442" alt="Class DIagram bus" src="https://github.com/Akramfarrasanto/RPL-UseCase-2/assets/115552876/522885b0-0f51-4a7d-aee7-74730f34efa1">
+
